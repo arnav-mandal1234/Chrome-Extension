@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Blackifier-Chrome Extension",
+  "version": "0.1",
+  "web_accessible_resources":["2.jpg"],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["content.js"]
+
+    }
+  ]
+
+}
