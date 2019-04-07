@@ -2,16 +2,14 @@
 
 Repositories of all the Chrome Extensions i have made.
 
-## 1.Blackifier : 
+<details>
+   <summary>Blackifier</summary>
+   <p>This chrome extension replaces all the images in a web page with a black image.</p>
+</details>
 
-This Chrome Extension replaces all the images in the web page with a black image.
-
-#### Examples :
-
-![Screenshot1](https://github.com/arnav-mandal1234/Chrome-Extensions/blob/master/Blackifier-Chrome%20Extension/Screenshot1.PNG)
-
-![Screenshot2](https://github.com/arnav-mandal1234/Chrome-Extensions/blob/master/Blackifier-Chrome%20Extension/Screenshot2.PNG)
-
-
+<details>
+   <summary>chowkidar-chor</summary>
+   <p>This chrome extension replaces all the occurrences of 'chowkidar' with 'chor' in Facebook and Twitter.</p>
+</details>
 
 
