@@ -1,1 +1,1 @@
-This Chrome Extension Replaces all the occurence of 'chowkidar' with 'chor' in a website.
+This chrome extension replaces all the occurrences of 'chowkidar' with 'chor' in Facebook and Twitter.
